@@ -5,7 +5,7 @@
 ```
 python3 q31.py 
 ```
-Output of program is video showing the actual video, adaptive histogram equalization output and histogram equalization output.
+Output of program is video showing the actual video, adaptive histogram equalization output and histogram equalization output : Histogram_Equalization.mp4.
 # ![1](https://github.com/advaitp/Lane-Detection-using-OpenCV/blob/main/histo.png)
 
 ### Lane Detection
@@ -13,7 +13,7 @@ Output of program is video showing the actual video, adaptive histogram equaliza
 ```
 python3 q32.py
 ```
-Output of program is video output
+Output of program is video output : Lane_Detection.mp4
 # ![2](https://github.com/advaitp/Lane-Detection-using-OpenCV/blob/main/line.png)
 
 ### Radius of Curvature and turn prediction
@@ -21,5 +21,5 @@ Output of program is video output
 ```
 python3 q33.py
 ```
-Output of program is video output
+Output of program is video output : Turn_Detection.mp4
 # ![3](https://github.com/advaitp/Lane-Detection-using-OpenCV/blob/main/radius.png)
