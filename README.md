@@ -6,7 +6,7 @@
 python3 q31.py 
 ```
 Output of program is video showing the actual video, adaptive histogram equalization output and histogram equalization output.
-histo.png
+# ![1](https://github.com/advaitp/Lane-Detection-using-OpenCV/blob/main/histo.png)
 
 ### Lane Detection
 #### To run the program for second problem keep 'whiteline.mp4' video in same folder or give the path of video
@@ -14,7 +14,7 @@ histo.png
 python3 q32.py
 ```
 Output of program is video output
-line.png
+# ![2](https://github.com/advaitp/Lane-Detection-using-OpenCV/blob/main/line.png)
 
 ### Radius of Curvature and turn prediction
 #### To run the program for third problem keep 'challenge.mp4' in same directory or give video path
@@ -22,4 +22,4 @@ line.png
 python3 q33.py
 ```
 Output of program is video output
-radius.png
+# ![3](https://github.com/advaitp/Lane-Detection-using-OpenCV/blob/main/radius.png)
