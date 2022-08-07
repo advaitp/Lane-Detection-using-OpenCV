@@ -6,6 +6,7 @@
 python3 q31.py 
 ```
 Output of program is video showing the actual video, adaptive histogram equalization output and histogram equalization output.
+histo.png
 
 ### Lane Detection
 #### To run the program for second problem keep 'whiteline.mp4' video in same folder or give the path of video
@@ -13,6 +14,7 @@ Output of program is video showing the actual video, adaptive histogram equaliza
 python3 q32.py
 ```
 Output of program is video output
+line.png
 
 ### Radius of Curvature and turn prediction
 #### To run the program for third problem keep 'challenge.mp4' in same directory or give video path
@@ -20,3 +22,4 @@ Output of program is video output
 python3 q33.py
 ```
 Output of program is video output
+radius.png
